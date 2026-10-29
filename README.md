@@ -93,8 +93,8 @@ The `library_db` database has about 30 tables, including `users`, `books`, `auth
 
 ## Team
 
-- Your Name: [GitHub profile link]
-- Teammate Name: [GitHub profile link]
+- My Name: Eusa Anjum Himel
+- Teammate Name: 1/ Faija Ahamed Mim 2/ Maryum Binte Hossain
 
 ## License
 
